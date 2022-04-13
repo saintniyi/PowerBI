@@ -1,2 +1,2 @@
 # PowerBI
-Repository for Power BI reports
+Repository for collection of Power BI analytics and reports
